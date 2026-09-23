@@ -29,7 +29,3 @@ This static edition stores its personal state in the browser. Clearing site data
 ## Origin
 
 `o-vvv-o` is the original project/world name. `bury-your-ai-ideas` is the descriptive repository name for this preserved static edition.
-
-### Brown Hyperlinks
-
-The GitHub Pages edition preserves the Brown Hyperlink / Burylink experiment without PHP or MariaDB. `bury/index.html` encodes the artifact directly into the `?bury=` URL; the field already knows how to decode that artifact and turn it into a recoverable sparkle/treasure. The original server implementation used short database-backed codes; this static edition intentionally uses longer self-contained URLs.
